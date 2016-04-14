@@ -34,8 +34,8 @@ url$category_url<-as.character(url$category_url)
 
 myheader=c(
   "Referer"= 'http://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.5.F13Qrw&id=45019289022&areaId=440300&cat_id=2&rn=4e13073a113b3447f9324cf805e30bb8&user_id=772669743&is_b=1',
-  "Cookie"= 'thw=cn; t=1aecb389f1ad26daafeead53670423a3; cna=DT/rDVyzlUQCARsmDRevYFt7; isg=87DC330302CAD9AEF6205E868FFC2D7D; l=AlhY9h/MAf2VPsC/QjmB9awZCIzqQbzL; mt=np=&ci=-1_0; uc3=nk2=G4mgLCRZx6no8qfi5g%3D%3D&id2=UonZBtTqYSCQGg%3D%3D&vt3=F8dAT%2BCIADlA1JLNKy0%3D&lg2=VT5L2FSpMGV7TQ%3D%3D; lgc=xiaowenjie886; tracknick=xiaowenjie886; _cc_=URm48syIZQ%3D%3D; tg=0; v=0; cookie2=1c2e1be43edecd10e53e26552fbc1ee8; _tb_token_=XYAz6gN0MaJQ; linezing_session=N3uhcoUgC8YJQEV7oljdi12J_1433817736490rv6g_1; uc1=lltime=1433819619&cookie14=UoW0EaqwCYl%2FvQ%3D%3D&existShop=false&cookie16=W5iHLLyFPlMGbLDwA%2BdvAGZqLg%3D%3D&cookie21=UtASsssmfavW4WY1P7uXzg%3D%3D&tag=2&cookie15=UtASsssmOIJ0bQ%3D%3D&pas=0; existShop=MTQzMzgxOTY0OA%3D%3D; sg=689; cookie1=UNaG7hUVmBqzT5U4J5xH8HeBiBsUUL0QGHEE%2BJc503Q%3D; unb=1821174258; _l_g_=Ug%3D%3D; _nk_=xiaowenjie886; cookie17=UonZBtTqYSCQGg%3D%3D',
-  "Connection"=' keep-alive'
+  "Connection"=' keep-alive',
+  "User-Agent"="Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0"
 )
 
 
